@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Workspace Experience">81a6ba9b530233004cb4ddeeff7b1258</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>tenable f app ➚</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>101</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>x/479440/workspace/tenable_f_app</query>
+        <report/>
+        <roles>admin,sn_vul.vulnerability_read</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-20 13:28:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>42c930e90710101082fef96d7c1ed097</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tenable f app ➚</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="tenable f app" source="x_479440_tenable_f">90e8b4250710101082fef96d7c1ed053</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="tenable f app">90e8b4250710101082fef96d7c1ed053</sys_scope>
+        <sys_update_name>sys_app_module_42c930e90710101082fef96d7c1ed097</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-20 13:28:39</sys_updated_on>
+        <timeline_page/>
+        <title>tenable f app ➚</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name>tenable f app</window_name>
+    </sys_app_module>
+</record_update>

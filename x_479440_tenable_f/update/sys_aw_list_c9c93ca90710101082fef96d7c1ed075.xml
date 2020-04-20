@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_list">
+    <sys_aw_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Vulnerability Scans">85c93ca90710101082fef96d7c1ed074</category>
+        <columns>cmdb_ci,import_set,integration_run,ip,number,parent,qualys_appliance,qualys_child_scan_passthrough,qualys_parent_scan,raw_response,requested_by,scan_id,scan_reference,scanner,source_table,state,status_message,sys_class_name,sys_created_by,sys_created_on,sys_domain,sys_id,sys_mod_count,sys_tags,sys_updated_by,sys_updated_on,time_requested,use_default_appliance</columns>
+        <condition/>
+        <groups/>
+        <list_attributes/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_aw_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-20 13:28:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c9c93ca90710101082fef96d7c1ed075</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="tenable f app" source="x_479440_tenable_f">90e8b4250710101082fef96d7c1ed053</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="tenable f app">90e8b4250710101082fef96d7c1ed053</sys_scope>
+        <sys_update_name>sys_aw_list_c9c93ca90710101082fef96d7c1ed075</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-20 13:28:35</sys_updated_on>
+        <table>sn_vul_scan</table>
+        <title>All</title>
+        <workspace display_value="tenable f app">27b978250710101082fef96d7c1ed066</workspace>
+    </sys_aw_list>
+</record_update>

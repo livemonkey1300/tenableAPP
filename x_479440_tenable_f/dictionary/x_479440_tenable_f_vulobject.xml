@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sn_vul_int_data_src" label="vulobject" max_length="40" name="x_479440_tenable_f_vulobject" text_index="true" type="collection"/>
+</database>
